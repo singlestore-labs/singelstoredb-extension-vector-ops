@@ -1,5 +1,7 @@
 # Vector Operations in SingleStoreDB
 
+**Attention**: The code in this repository is intended for experimental use only and is not fully tested, documented, or supported by SingleStore. Visit the [SingleStore Forums](https://www.singlestore.com/forum/) to ask questions about this repository.
+
 ## Introduction
 
 This module will eventually comprise a set of utility functions intended to fill
